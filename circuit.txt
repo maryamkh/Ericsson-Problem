@@ -1,0 +1,4 @@
+apple = and2(peach, in2)
+grape = and2(in1, in3)
+berry = or2(apple, grape)
+peach = inv(in1)
