@@ -1,0 +1,4 @@
+net2 = and2(net1, in2)
+net3 = and2(in1, in3)
+net4 = or2(net2, net3)
+net1 = inv(in1)
